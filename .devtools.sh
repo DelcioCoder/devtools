@@ -7,7 +7,7 @@ clip() {
 }
 
 stb() {
-  cd "$HOME/Documentos/projectos/sentaurai-backend"
+  cd "$HOME/Documents/projects/yourbackend-example"
 }
 
 # =========================
