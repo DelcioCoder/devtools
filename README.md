@@ -16,7 +16,7 @@ Inclui utilidades para:
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/teu-usuario/devtools.git ~/devtools
+git clone https://github.com/DelcioCoder/devtools.git ~/devtools
 ```
 
 ---
@@ -68,7 +68,7 @@ stb
 ```
 
 > Caminho atual:
-> `~/Documentos/projectos/sentaurai-backend`
+> `~/Documents/projects/yourbackend-example`
 
 ---
 
@@ -134,8 +134,6 @@ Para listar dinamicamente os serviços disponíveis.
 ## 💡 Motivação
 
 Este projeto foi criado para acelerar tarefas repetitivas e melhorar o fluxo de trabalho no terminal.
-
-Inspirado em setups de desenvolvedores experientes.
 
 ---
 
